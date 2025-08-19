@@ -1,0 +1,1 @@
+A practical tool for real-time sign language translation using TensorFlow and Python. It guides users through collecting and labeling images, setting up detection pipelines, applying transfer learning, and running live detection with OpenCV, bridging accessibility gaps through custom object detection.
